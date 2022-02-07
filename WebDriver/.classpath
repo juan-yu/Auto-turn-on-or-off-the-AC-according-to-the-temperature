@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.lejos.nxt.ldt.LEJOS_LIBRARY_CONTAINER/pc"/>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.13.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.13.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.13.1.jar" sourcepath="lib/jsoup-1.13.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/eclipse-workspace32bit/WebDriver/lib/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/leJOS NXJ/lib/pc/pccomm.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/leJOS NXJ/lib/pc/3rdparty/bluecove.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
